@@ -13,11 +13,11 @@ Kirstie recommended it saying:
 
 Everyone is invited to add their comments to the corresponding [`summer-book-club`](https://github.com/BIDS/bids-community/issues?q=state%3Aopen%20label%3A%22summer-book-club%22) issue before Thursday at noon following this schedule:
 
-| Share out date | Chapters |
-|------|----------|
-| Thurs 25 June | Chapters 1-5 |
-| Thurs 2 July | Chapters 6-8 |
-| Thurs 9 July | Chapters 9-11 |
-| Thurs 16 July | Chapters 12-15 |
-| Thurs 23 July | Chapters 16-18 |
-| Thurs 30 July | Chapters 19 & 20 (+epilogue) |
+| Share out date | Chapters | Issue |
+|------|----------|------|
+| Thurs 25 June | Chapters 1-5 | [#1](https://github.com/BIDS/bids-community/issues/1) |
+| Thurs 2 July | Chapters 6-8 | [#2](https://github.com/BIDS/bids-community/issues/2) |
+| Thurs 9 July | Chapters 9-11 | [#3](https://github.com/BIDS/bids-community/issues/3) |
+| Thurs 16 July | Chapters 12-15 | [#4](https://github.com/BIDS/bids-community/issues/4) |
+| Thurs 23 July | Chapters 16-18 | [#5](https://github.com/BIDS/bids-community/issues/5) |
+| Thurs 30 July | Chapters 19 & 20 (+epilogue) | [#6](https://github.com/BIDS/bids-community/issues/6) |
